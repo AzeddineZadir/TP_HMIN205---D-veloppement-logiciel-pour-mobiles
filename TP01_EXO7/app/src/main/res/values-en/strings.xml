@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1_EX07</string>
+    <string name="name">Name :</string>
+    <string name="last_name">Last name :</string>
+    <string name="age">Age :</string>
+    <string name="competance_feild">Area of ​​competence :</string>
+    <string name="validate">validate</string>
+    <string name="mobile">Phone:</string>
+    <string name="call">Call :</string>
+    <string-array name= "com">
+        <item>ADV Manager</item>
+        <item>Business Lawyer</item>
+        <item>Data Analyst</item>
+        <item>GDPR project managerD</item>
+        <item>Web developer</item>
+        <item>IT engineer</item>
+        <item>FP&amp;A Manager</item>
+        <item>Interim manager</item>
+    </string-array>
+</resources>

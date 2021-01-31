@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TP1_EXO5</string>
+    <string name="name">Nom :</string>
+    <string name="last_name">Prénom :</string>
+    <string name="age">Age :</string>
+    <string name="competance_feild">Domaine de competance :</string>
+    <string name="validate">valider</string>
+    <string name="mobile">Télephone :</string>
+    <string-array name= "com">
+        <item>Gestionnaire ADV</item>
+        <item>Juriste en droit des affaires</item>
+        <item>Data Analyst</item>
+        <item>Chef de projet RGPD</item>
+        <item>Développeur Web</item>
+        <item>Ingénieur IT</item>
+        <item>FP&amp;A Manager</item>
+        <item>Manager de transition</item>
+    </string-array>
+</resources>
